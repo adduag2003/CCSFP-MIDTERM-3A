@@ -1,5 +1,5 @@
 # CCSFP-MIDTERM
-Pair: Alessandra Alejandro and Christian Ocampo
+Pair: DUAG, ANDREI DENIEL S. - SALAZAR, RENNIEL
 
 git commands:
 git status
